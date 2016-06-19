@@ -1,0 +1,9 @@
+train_label.txt
+test_label.txt
+train_image
+test_image
+train-image*
+test-image*
+t10k*
+train-label*
+mnist_read
